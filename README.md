@@ -3,18 +3,21 @@
 Awesome papers and datasets specifically focused on pathology.
 
 - [Awesome-Pathology-Agents](#awesome-pathology-agents)
-  - [Perception](#perception)
-  - [Reasoning](#reasoning)
-  - [Planning](#planning)
-  - [Tool Use](#tool-use)
-  - [Memory](#memory)
-  - [Self-improvement](#self-improvement)
+  - [Papers](#papers)
+    - [Perception](#perception)
+    - [Reasoning](#reasoning)
+    - [Planning](#planning)
+    - [Tool Use](#tool-use)
+    - [Memory](#memory)
+    - [Self-improvement](#self-improvement)
   - [Datasets](#datasets)
     - [Patch Level Visual Question Answering Datasets](#patch-level-visual-question-answering-datasets)
     - [Slide Level Visual Question Answering Datasets](#slide-level-visual-question-answering-datasets)
   - [Star History](#star-history)
 
-## Perception
+## Papers
+
+### Perception
 
 * Quilt-1M: One Million Image-Text Pairs for Histopathology, NIPS 2023.
 * PathAlign: A vision–language model for whole slide images in histopathology, MICCAI COMPAYL Workshop 2024.
@@ -32,7 +35,7 @@ Awesome papers and datasets specifically focused on pathology.
 * Generating dermatopathology reports from gigapixel whole slide images with HistoGPT, Narture Communications 2025.
 * WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image, ICCV 2025.
 
-## Reasoning
+### Reasoning
 
 * Evidence-based diagnostic reasoning with multi-agent copilot for human pathology, arXiv 2025.
 * A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model, arXiv 2025.
@@ -42,29 +45,29 @@ Awesome papers and datasets specifically focused on pathology.
 * CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology, CVPR 2025.
 * SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding, CVPR 2025.
 
-## Planning
+### Planning
 
 * PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology, ICCV 2025.
 * PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning, arXiv 2025.
 
-## Tool Use
+### Tool Use
 
 * PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology, AAAI 2024.
 * WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis, MICCAI 2025.
 * PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration, ICLR 2025 oral.
 * UnPuzzle: A Unified Framework for Pathology Image Analysis, arXiv 2025.
 
-## Memory
+### Memory
 
 * PolyPath: Adapting a Large Multimodal Model for Multislide Pathology Report Generation, Modern Pathology 2025.
 * SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction, arXiv 2025.
 * Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning, AAAI 2026.
 
-## Self-improvement
+### Self-improvement
 
 * A co-evolving agentic AI system for medical imaging analysis, arXiv 2025.
 
-## Other
+### Other
 
 * PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology, ECCV 2024, Benchmark.
 * PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level, TMI 2025, Benchmark.
