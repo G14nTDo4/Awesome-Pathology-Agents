@@ -11,8 +11,8 @@ Awesome papers and datasets specifically focused on pathology.
     - [Memory](#memory)
     - [Self-improvement](#self-improvement)
   - [Datasets](#datasets)
-    - [Patch Level Visual Question Answering Datasets](#patch-level-visual-question-answering-datasets)
-    - [Slide Level Visual Question Answering Datasets](#slide-level-visual-question-answering-datasets)
+    - [Patch Level Datasets](#patch-level-datasets)
+    - [Slide Level Datasets](#slide-level-datasets)
   - [Star History](#star-history)
 
 ## Papers
@@ -79,7 +79,7 @@ Awesome papers and datasets specifically focused on pathology.
 
 ## Datasets
 
-### Patch Level Visual Question Answering Datasets
+### Patch Level Datasets
 
 | Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
 | -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
@@ -88,7 +88,7 @@ Awesome papers and datasets specifically focused on pathology.
 | MicroVQA             | Close-ended                                     | 1,042(Test)          | -                  | [Data](https://huggingface.co/datasets/jmhb/microvqa) |
 | Quilt_VQA            | Open-ended                                      | 1,283                | 985                | [Data](https://huggingface.co/datasets/wisdomik/Quilt_VQA) |
 
-### Slide Level Visual Question Answering Datasets
+### Slide Level Datasets
 
 | Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
 | -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
