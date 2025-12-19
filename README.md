@@ -14,6 +14,7 @@ Awesome papers and datasets specifically focused on pathology.
     - [Patch Level Benchmarks](#patch-level-benchmarks)
     - [Slide Level Benchmarks](#slide-level-benchmarks)
     - [Datasets](#datasets)
+  - [Contact](#contact)
   - [Star History](#star-history)
 
 ## Papers
@@ -113,6 +114,10 @@ Awesome papers and datasets specifically focused on pathology.
 * [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
 * [PathCap: Evaluating and interpreting caption prediction for histopathology images](https://proceedings.mlr.press/v126/zhang20b.html), Proceedings of the 5th Machine Learning for Healthcare Conference 2020, [![Star](https://img.shields.io/github/stars/zhangrenyuuchicago/PathCap.svg?style=social&label=Star)](https://github.com/zhangrenyuuchicago/PathCap).
+
+## Contact 
+
+If you have relevant works regarding pathology agents or agentic computational pathology, we welcome you to contact us (Linghan Cai: cailh@stu.hit.edu.cn; Jingyun Chen: 03chenjingyun@gmail.com) to include them in our repository.
 
 ## Star History
 
