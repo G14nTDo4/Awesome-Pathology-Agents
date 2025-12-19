@@ -37,6 +37,8 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
 * [Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/BasitAlawode/MR-PLIP.svg?style=social&label=Star)](https://github.com/BasitAlawode/MR-PLIP).
 * PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology, AAAI 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathFLIP.svg?style=social&label=Star)](https://github.com/cyclexfy/PathFLIP).
+* [PathOrchestra: a comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks](https://www.nature.com/articles/s41746-025-02027-w), npj digital medicine 2025, [![Star](https://img.shields.io/github/stars/yanfang-research/PathOrchestra.svg?style=social&label=Star)](https://github.com/yanfang-research/PathOrchestra).
+* [MUSK: A vision–language foundation model for precision oncology](https://www.nature.com/articles/s41586-024-08378-w), Nature 2025, [![Star](https://img.shields.io/github/stars/lilab-stanford/MUSK.svg?style=social&label=Star)](https://github.com/lilab-stanford/MUSK).
 
 
 ### Reasoning
@@ -69,6 +71,8 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis](https://arxiv.org/abs/2507.14680), MICCAI 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-Agents.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-Agents).
 * [UnPuzzle: A Unified Framework for Pathology Image Analysis](https://arxiv.org/abs/2503.03152), arXiv 2025, [![Star](https://img.shields.io/github/stars/Puzzle-Logic/UnPuzzle.svg?style=social&label=Star)](https://github.com/Puzzle-Logic/UnPuzzle).
 * [Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](https://arxiv.org/abs/2508.02258), AAAI 2026, [![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star)](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG).
+* [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://www.nature.com/articles/s43018-025-00991-6?fromPaywallRec=false), Nature Cancer 2025, [![Star](https://img.shields.io/github/stars/Dyke-F/LLM_RAG_Agent.svg?style=social&label=Star)](https://github.com/Dyke-F/LLM_RAG_Agent).
+
 
 ### Memory
 
