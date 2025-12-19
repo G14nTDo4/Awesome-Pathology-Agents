@@ -41,7 +41,7 @@ Awesome papers and datasets specifically focused on pathology.
 
 ### Reasoning
 
-* [Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
+* [SlideSeek: Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
 * [SmartPath-R1: A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://arxiv.org/abs/2507.17303), arXiv 2025.
 * [Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](https://arxiv.org/abs/2510.04587), arXiv 2025.
 * [TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://www.researchsquare.com/article/rs-8098264/v1), arXiv 2025.
