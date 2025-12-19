@@ -115,7 +115,9 @@ Awesome papers and datasets specifically focused on pathology.
 * [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023, Benchmark.
 * [Hest-1k: A dataset for spatial transcriptomics and histology image analysis](https://proceedings.neurips.cc/paper_files/paper/2024/file/60a899cc31f763be0bde781a75e04458-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024, Benchmark.
 * [STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics](https://proceedings.neurips.cc/paper_files/paper/2024/file/3ef2b740cb22dcce67c20989cb3d3fce-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024, Benchmark, [![Star](https://img.shields.io/github/stars/JiawenChenn/STimage-1K4M.svg?style=social&label=Star)](https://github.com/JiawenChenn/STimage-1K4M).
+* [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
+* [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=G14nTDo4/PathAgent&type=date&legend=top-left)](https://www.star-history.com/#G14nTDo4/PathAgent&type=date&legend=top-left)
+[![Star History Chart](https://api.star-history.com/svg?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left)](https://www.star-history.com/#G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left)
