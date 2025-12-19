@@ -83,23 +83,24 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 ### Patch Level Benchmarks
 
-| Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
-| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
-| PathMMU              | Close-ended                                     | 33,428               | 24,067             | [Data](https://huggingface.co/datasets/jamessyx/PathMMU) |
-| PathVQA              | Open-ended                                      | 32,632               | 4,289              | [Data](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
-| MicroVQA             | Close-ended                                     | 1,042(Test)          | -                  | [Data](https://huggingface.co/datasets/jmhb/microvqa) |
-| Quilt_VQA            | Open-ended                                      | 1,283                | 985                | [Data](https://huggingface.co/datasets/wisdomik/Quilt_VQA) |
+| Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     | Task |
+| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | ---- |
+| PathMMU              | Close-ended                                     | 33,428               | 24,067             | [Data](https://huggingface.co/datasets/jamessyx/PathMMU) | Visual Question Answering |
+| PathVQA              | Open-ended                                      | 32,632               | 4,289              | [Data](https://huggingface.co/datasets/flaviagiammarino/path-vqa) | Visual Question Answering |
+| MicroVQA             | Close-ended                                     | 1,042(Test)          | -                  | [Data](https://huggingface.co/datasets/jmhb/microvqa) | Visual Question Answering |
+| Quilt_VQA            | Open-ended                                      | 1,283                | 985                | [Data](https://huggingface.co/datasets/wisdomik/Quilt_VQA) | Visual Question Answering |
 
 ### Slide Level Benchmarks
 
-| Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
-| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
-| WSI-VQA              | Open-ended and Close-ended                      | 977                  | 8,671              | [Data](https://github.com/cpystan/WSI-VQA) |
-| WSI-Bench            | Open-ended and Close-ended                      | 175,450(Train) + 4,119(Test) | 9,642(Train) + 208(Test) | [Data](https://huggingface.co/datasets/LyuLucas/WSI-Bench) |
-| SlideBench-VQA       | Close-ended                                     | 7,827(TCGA) + 7,247(BCNB) | 734(TCGA) + 1,058(BCNB)     | [Data](https://huggingface.co/datasets/General-Medical-AI/SlideChat) |
-| PathCap              | Open-ended                                      | 9,727(GTEx) captions | 7795(Train) + 948(Val) + 984(Test)| [Data](http://gtexportal.org/home/histologyPage) |
-| HEST-1k              | Histology-spatial transcriptomics               | 1,229 slide-st pairs | 1,229 slide-st pairs | [Data](https://huggingface.co/datasets/MahmoodLab/hest) |
-| STimage-1K4M         | Histology-spatial transcriptomics               | 1,149 slide-st pairs | 1,149 slide-st pairs | [Data](https://huggingface.co/datasets/jiawennnn/STimage-1K4M) |
+| Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     | Task |
+| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | ---- |
+| WSI-VQA              | Open-ended and Close-ended                      | 977                  | 8,671              | [Data](https://github.com/cpystan/WSI-VQA) | Visual Question Answering |
+| WSI-Bench            | Open-ended and Close-ended                      | 175,450(Train) + 4,119(Test) | 9,642(Train) + 208(Test) | [Data](https://huggingface.co/datasets/LyuLucas/WSI-Bench) | Visual Question Answering |
+| SlideBench-VQA       | Close-ended                                     | 7,827(TCGA) + 7,247(BCNB) | 734(TCGA) + 1,058(BCNB)     | [Data](https://huggingface.co/datasets/General-Medical-AI/SlideChat) | Visual Question Answering |
+| PathCap              | Open-ended                                      | 9,727(GTEx) captions | 7795(Train) + 948(Val) + 984(Test)| [Data](http://gtexportal.org/home/histologyPage) | Caption Generation |
+| HEST-1k              | Histology-spatial transcriptomics               | 1,229 slide-st pairs | 1,229 slide-st pairs | [Data](https://huggingface.co/datasets/MahmoodLab/hest) | Gene Expression Prediction |
+| STimage-1K4M         | Histology-spatial transcriptomics               | 1,149 slide-st pairs | 1,149 slide-st pairs | [Data](https://huggingface.co/datasets/jiawennnn/STimage-1K4M) | Gene Expression Prediction |
+
 
 ### Datasets
 
