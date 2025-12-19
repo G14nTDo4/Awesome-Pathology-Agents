@@ -77,14 +77,6 @@ Awesome papers and datasets specifically focused on pathology.
 
 * [TissueLab: A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279), arXiv 2025.
 
-### Other
-
-* [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, Benchmark.
-* [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025, Benchmark.
-* [PathoGaze1.0: Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology](https://arxiv.org/abs/2510.24653), arXiv 2025, Clinical hardware data collection.
-* [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=rFpZnn11gj), ICLR 2025 oral, Benchmark.
-* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023, Benchmark.
-
 
 ## Datasets
 
@@ -117,15 +109,11 @@ Awesome papers and datasets specifically focused on pathology.
 
 ## Benchmarks
 
-***Latest Papers (after 2023)***
-* [**TemporalBench**: Benchmarking Fine-grained Temporal Understanding for Multimodal Video Models],arXiv[![arXiv](https://img.shields.io/badge/arXiv-2410.10818-b31b1b.svg?style=plastic)](https://www.arxiv.org/abs/2410.10818)
-* [**VideoHallucer**: Evaluating Intrinsic and Extrinsic Hallucinations in Large Video-Language Models](https://arxiv.org/abs/2406.16338), arXiv[![arXiv](https://img.shields.io/badge/arXiv-2406.16338-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2406.16338)
-* Video-MME: The First-Ever Comprehensive Evaluation Benchmark of Multi-modal LLMs in Video Analysis,2024
-* CinePile: A Long Video Question Answering Dataset and Benchmark,2024
-* TempCompass: Do Video LLMs Really Understand Videos? 2024.
-* MVBench: A Comprehensive Multi-modal Video Understanding Benchmark, CVPR 2024.
-* How Good is my Video LMM? Complex Video Reasoning and Robustness Evaluation Suite for Video-LMMs, 2024
-* MLVU: A Comprehensive Benchmark for Multi-Task Long Video Understanding [Arxiv](https://arxiv.org/abs/2406.04264)
+* [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, Benchmark.
+* [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025, Benchmark.
+* [PathoGaze1.0: Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology](https://arxiv.org/abs/2510.24653), arXiv 2025, Clinical hardware data collection.
+* [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=rFpZnn11gj), ICLR 2025 oral, Benchmark.
+* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023, Benchmark.
 
 ## Star History
 
