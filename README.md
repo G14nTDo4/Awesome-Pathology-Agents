@@ -34,7 +34,7 @@ Awesome papers and datasets specifically focused on pathology.
 * [CONCH: A visual-language foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02856-4), Nature Medicine 2024.
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023.
 * [Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation
-](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html), CVPR 2025.
+](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/BasitAlawode/MR-PLIP.svg?style=social&label=Star)](https://github.com/BasitAlawode/MR-PLIP).
 
 
 
