@@ -39,7 +39,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology, AAAI 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathFLIP.svg?style=social&label=Star)](https://github.com/cyclexfy/PathFLIP).
 * [PathOrchestra: a comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks](https://www.nature.com/articles/s41746-025-02027-w), npj digital medicine 2025, [![Star](https://img.shields.io/github/stars/yanfang-research/PathOrchestra.svg?style=social&label=Star)](https://github.com/yanfang-research/PathOrchestra).
 
-
 ### Reasoning
 
 * [SlideSeek: Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
@@ -63,7 +62,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), arXiv 2025, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
 * [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510), NeurIPS 2025.
 * [SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635), arXiv 2025.
-
+* [GIANT: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
 
 ### Tool Use
 
@@ -120,6 +119,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
 * [PathCap: Evaluating and interpreting caption prediction for histopathology images](https://proceedings.mlr.press/v126/zhang20b.html), Proceedings of the 5th Machine Learning for Healthcare Conference 2020, [![Star](https://img.shields.io/github/stars/zhangrenyuuchicago/PathCap.svg?style=social&label=Star)](https://github.com/zhangrenyuuchicago/PathCap).
 * [HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction](https://arxiv.org/abs/2403.05396), MICCAI 2024, [![Star](https://img.shields.io/github/stars/dddavid4real/HistGen.svg?style=social&label=Star)](https://github.com/dddavid4real/HistGen).
+* [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
 
 ## Contact 
 
