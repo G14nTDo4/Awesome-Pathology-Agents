@@ -76,7 +76,7 @@ Awesome papers and datasets specifically focused on pathology.
 * [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025, Benchmark.
 * [PathoGaze1.0: Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology](https://arxiv.org/abs/2510.24653), arXiv 2025, Clinical hardware data collection.
 * [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=rFpZnn11gj), ICLR 2025 oral, Benchmark.
-* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023 Benchmark.
+* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023, Benchmark.
 
 
 ## Datasets
