@@ -30,6 +30,13 @@ Awesome papers and datasets specifically focused on pathology.
 * [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025.
 * [MUSK: A vision–language foundation model for precision oncology](https://www.nature.com/articles/s41586-024-08378-w), Nature 2025.
 * [TITAN: A multimodal whole-slide foundation model for pathology](https://www.nature.com/articles/s41591-025-03982-3), Nature Medicine 2025.
+* [UNI: Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3), Nature Medicine 2024.
+* [CONCH: A visual-language foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02856-4), Nature Medicine 2024.
+* [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023.
+* [Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation
+](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html), CVPR 2025.
+
+
 
 
 ### Reasoning
