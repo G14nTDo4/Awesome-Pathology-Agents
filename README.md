@@ -108,6 +108,8 @@ Awesome papers and datasets specifically focused on pathology.
 * [STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics](https://proceedings.neurips.cc/paper_files/paper/2024/file/3ef2b740cb22dcce67c20989cb3d3fce-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024, Benchmark, [![Star](https://img.shields.io/github/stars/JiawenChenn/STimage-1K4M.svg?style=social&label=Star)](https://github.com/JiawenChenn/STimage-1K4M).
 * [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
 * [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
+* [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
+
 
 ## Star History
 
