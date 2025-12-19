@@ -19,59 +19,64 @@ Awesome papers and datasets specifically focused on pathology.
 
 ### Perception
 
-* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023.
-* PathAlign: A vision–language model for whole slide images in histopathology, MICCAI COMPAYL Workshop 2024.
-* WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images, MICCAI 2024 oral.
-* HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-Modal Context Interaction, MICCAI 2024.
-* A multimodal generative AI copilot for human pathology, Nature 2024.
-* Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos, CVPR 2024.
-* A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis, arXiv 2024.
-* PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue, arXiv 2025.
-* Virchow2: Scaling Self-Supervised Mixed Magnification Models in Pathology, arXiv 2025.
-* ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering, medrxiv 2025.
-* PathVG: A New Benchmark and Dataset for Pathology Visual Grounding, MICCAI 2025.
-* A vision–language foundation model for precision oncology, Nature 2025.
-* A multimodal whole-slide foundation model for pathology, Nature Medicine 2025.
-* Generating dermatopathology reports from gigapixel whole slide images with HistoGPT, Narture Communications 2025.
-* WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image, ICCV 2025.
+* [PathAlign: A vision–language model for whole slide images in histopathology](https://arxiv.org/abs/2406.19578), MICCAI COMPAYL Workshop 2024.
+* [WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_51), MICCAI 2024 oral.
+* [HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-Modal Context Interaction](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_18), MICCAI 2024.
+* [PathChat: A multimodal generative AI copilot for human pathology](https://www.nature.com/articles/s41586-024-07618-3), Nature 2024.
+* [A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis](https://arxiv.org/abs/2412.13126), arXiv 2024.
+* [Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778), arxiv 2023.
+* [Virchow2: Scaling Self-Supervised Mixed Magnification Models in Pathology](https://arxiv.org/abs/2408.00738), arXiv 2025.
+* [ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering](https://www.medrxiv.org/content/10.1101/2025.04.22.25326190v1), medrxiv 2025.
+* [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025.
+* [MUSK: A vision–language foundation model for precision oncology](https://www.nature.com/articles/s41586-024-08378-w), Nature 2025.
+* [TITAN: A multimodal whole-slide foundation model for pathology](https://www.nature.com/articles/s41591-025-03982-3), Nature Medicine 2025.
+
 
 ### Reasoning
 
-* Evidence-based diagnostic reasoning with multi-agent copilot for human pathology, arXiv 2025.
-* A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model, arXiv 2025.
-* Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior, arXiv 2025.
-* TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots, arXiv 2025.
-* Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner, AAAI 2026.
-* CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology, CVPR 2025.
-* SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding, CVPR 2025.
+* [Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
+* [SmartPath-R1: A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://arxiv.org/abs/2507.17303), arXiv 2025.
+* [Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](https://arxiv.org/abs/2510.04587), arXiv 2025.
+* [TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://www.researchsquare.com/article/rs-8098264/v1), arXiv 2025.
+* [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404), AAAI 2026.
+* [CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html), CVPR 2025.
+* [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025.
+* [PolyPath: Adapting a Large Multimodal Model for Multislide Pathology Report Generation](https://arxiv.org/abs/2502.10536), arxiv 2025.
+* [PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology](https://ojs.aaai.org/index.php/AAAI/article/view/28308), AAAI 2024.
+* [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025.
+* [HistoGPT: Generating dermatopathology reports from gigapixel whole slide images with HistoGPT](https://www.nature.com/articles/s41467-025-60014-x), Narture Communications 2025.
+* [PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063), arXiv 2025.
+* [Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos](https://www.nature.com/articles/s41586-024-07618-3), CVPR 2024.
 
 ### Planning
 
-* PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology, ICCV 2025.
-* PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning, arXiv 2025.
+* [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](https://arxiv.org/abs/2502.08916), ICCV 2025.
+* [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), arXiv 2025.
+* [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510), NeurIPS 2025.
+* [SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635), arXiv 2025.
+
 
 ### Tool Use
 
-* PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology, AAAI 2024.
-* WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis, MICCAI 2025.
-* PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration, ICLR 2025 oral.
-* UnPuzzle: A Unified Framework for Pathology Image Analysis, arXiv 2025.
+* [WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis](https://arxiv.org/abs/2507.14680), MICCAI 2025.
+* [UnPuzzle: A Unified Framework for Pathology Image Analysis](https://arxiv.org/abs/2503.03152), arXiv 2025.
 
 ### Memory
 
-* PolyPath: Adapting a Large Multimodal Model for Multislide Pathology Report Generation, Modern Pathology 2025.
-* SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction, arXiv 2025.
-* Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning, AAAI 2026.
+* [Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](https://arxiv.org/abs/2508.02258), AAAI 2026.
+* [TissueLab: A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279), arXiv 2025.
 
 ### Self-improvement
 
-* A co-evolving agentic AI system for medical imaging analysis, arXiv 2025.
+* [TissueLab: A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279), arXiv 2025.
 
 ### Other
 
-* PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology, ECCV 2024, Benchmark.
-* PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level, TMI 2025, Benchmark.
-* Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology, arXiv 2025, Clinical hardware data collection.
+* [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, Benchmark.
+* [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025, Benchmark.
+* [PathoGaze1.0: Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology](https://arxiv.org/abs/2510.24653), arXiv 2025, Clinical hardware data collection.
+* [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=rFpZnn11gj), ICLR 2025 oral, Benchmark.
+* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023 Benchmark.
 
 
 ## Datasets
