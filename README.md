@@ -10,9 +10,10 @@ Awesome papers and datasets specifically focused on pathology.
     - [Tool Use](#tool-use)
     - [Memory](#memory)
     - [Self-improvement](#self-improvement)
-  - [Datasets](#datasets)
-    - [Patch Level Datasets](#patch-level-datasets)
-    - [Slide Level Datasets](#slide-level-datasets)
+  - [Benchmarks / Datasets](#benchmarks)
+    - [Patch Level Benchmarks](#patch-level-benchmarks)
+    - [Slide Level Benchmarks](#slide-level-benchmarks)
+    - [Datasets](#datasets)
   - [Star History](#star-history)
 
 ## Papers
@@ -77,18 +78,18 @@ Awesome papers and datasets specifically focused on pathology.
 * [TissueLab: A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279), arXiv 2025, [![Star](https://img.shields.io/github/stars/zhihuanglab/TissueLab.svg?style=social&label=Star)](https://github.com/zhihuanglab/TissueLab).
 
 
-## Datasets
+## Benchmarks
 
-### Patch Level Datasets
+### Patch Level Benchmarks
 
 | Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
 | -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
-| PathMMU              | Close-ended                                     | 33,428              | 24,067             | [Data](https://huggingface.co/datasets/jamessyx/PathMMU) |
+| PathMMU              | Close-ended                                     | 33,428               | 24,067             | [Data](https://huggingface.co/datasets/jamessyx/PathMMU) |
 | PathVQA              | Open-ended                                      | 32,632               | 4,289              | [Data](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
 | MicroVQA             | Close-ended                                     | 1,042(Test)          | -                  | [Data](https://huggingface.co/datasets/jmhb/microvqa) |
 | Quilt_VQA            | Open-ended                                      | 1,283                | 985                | [Data](https://huggingface.co/datasets/wisdomik/Quilt_VQA) |
 
-### Slide Level Datasets
+### Slide Level Benchmarks
 
 | Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
 | -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
@@ -96,8 +97,10 @@ Awesome papers and datasets specifically focused on pathology.
 | WSI-Bench            | Open-ended and Close-ended                      | 175,450(Train) + 4,119(Test) | 9,642(Train) + 208(Test) | [Data](https://huggingface.co/datasets/LyuLucas/WSI-Bench) |
 | SlideBench-VQA       | Close-ended                                     | 7,827(TCGA) + 7,247(BCNB) | 734(TCGA) + 1,058(BCNB)     | [Data](https://huggingface.co/datasets/General-Medical-AI/SlideChat) |
 | PathCap              | Open-ended                                      | 9,727(GTEx) captions | 7795(Train) + 948(Val) + 984(Test)| [Data](http://gtexportal.org/home/histologyPage) |
+| HEST-1k              | Histology-spatial transcriptomics               | 1,229 slide-st pairs | 1,229 image-st pairs | [Data](https://huggingface.co/datasets/MahmoodLab/hest) |
+| STimage-1K4M         | Histology-spatial transcriptomics               | 1,149 slide-st pairs | 1,149 slide-st pairs | [Data](https://huggingface.co/datasets/jiawennnn/STimage-1K4M) |
 
-## Benchmarks
+### Datasets
 
 * [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, Benchmark.
 * [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025, Benchmark.
