@@ -95,7 +95,7 @@ Awesome papers and datasets specifically focused on pathology.
 | WSI-VQA              | Open-ended and Close-ended                      | 977                  | 8,671              | [Data](https://github.com/cpystan/WSI-VQA) |
 | WSI-Bench            | Open-ended and Close-ended                      | 175,450(Train) + 4,119(Test) | 9,642(Train) + 208(Test) | [Data](https://huggingface.co/datasets/LyuLucas/WSI-Bench) |
 | SlideBench-VQA       | Close-ended                                     | 7,827(TCGA) + 7,247(BCNB) | 734(TCGA) + 1,058(BCNB)     | [Data](https://huggingface.co/datasets/General-Medical-AI/SlideChat) |
-
+| PathCap              | Open-ended                                      | 9,727(GTEx) captions | 7795(Train) + 948(Val) + 984(Test)| [Data](http://gtexportal.org/home/histologyPage) |
 
 ## Benchmarks
 
@@ -109,7 +109,7 @@ Awesome papers and datasets specifically focused on pathology.
 * [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
 * [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
-
+* [PathCap: Evaluating and interpreting caption prediction for histopathology images](https://proceedings.mlr.press/v126/zhang20b.html), Proceedings of the 5th Machine Learning for Healthcare Conference, 2020.
 
 ## Star History
 
