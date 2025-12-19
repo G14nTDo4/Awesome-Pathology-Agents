@@ -97,7 +97,7 @@ Awesome papers and datasets specifically focused on pathology.
 | WSI-Bench            | Open-ended and Close-ended                      | 175,450(Train) + 4,119(Test) | 9,642(Train) + 208(Test) | [Data](https://huggingface.co/datasets/LyuLucas/WSI-Bench) |
 | SlideBench-VQA       | Close-ended                                     | 7,827(TCGA) + 7,247(BCNB) | 734(TCGA) + 1,058(BCNB)     | [Data](https://huggingface.co/datasets/General-Medical-AI/SlideChat) |
 | PathCap              | Open-ended                                      | 9,727(GTEx) captions | 7795(Train) + 948(Val) + 984(Test)| [Data](http://gtexportal.org/home/histologyPage) |
-| HEST-1k              | Histology-spatial transcriptomics               | 1,229 slide-st pairs | 1,229 image-st pairs | [Data](https://huggingface.co/datasets/MahmoodLab/hest) |
+| HEST-1k              | Histology-spatial transcriptomics               | 1,229 slide-st pairs | 1,229 slide-st pairs | [Data](https://huggingface.co/datasets/MahmoodLab/hest) |
 | STimage-1K4M         | Histology-spatial transcriptomics               | 1,149 slide-st pairs | 1,149 slide-st pairs | [Data](https://huggingface.co/datasets/jiawennnn/STimage-1K4M) |
 
 ### Datasets
