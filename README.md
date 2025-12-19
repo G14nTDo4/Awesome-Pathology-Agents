@@ -19,7 +19,7 @@ Awesome papers and datasets specifically focused on pathology.
 
 ### Perception
 
-* Quilt-1M: One Million Image-Text Pairs for Histopathology, NIPS 2023.
+* [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023.
 * PathAlign: A vision–language model for whole slide images in histopathology, MICCAI COMPAYL Workshop 2024.
 * WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images, MICCAI 2024 oral.
 * HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-Modal Context Interaction, MICCAI 2024.
