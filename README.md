@@ -79,32 +79,23 @@ Awesome papers and datasets specifically focused on pathology.
 
 ## Datasets
 
-***Latest Papers (after 2023)***
-[ Dataset ] Panda-70M: Captioning 70M Videos with Multiple Cross-Modality Teachers, CVPR 2024.
-[ Dataset ] MovieLLM: Enhancing Long Video Understanding with AI-Generated Movies, 2024.
-  A novel framework designed to create synthetic, high-quality data for long videos. This framework leverages the power of GPT-4 and text-to-image models to generate detailed scripts and corresponding visuals.
-
 ### Patch Level Visual Question Answering Datasets
 
-| Dataset              | Annotation                                      | Source               | Number             | Duration | Tasks                                   | link                                                                                                                                                | Date Released |
-| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| EgoLife | timestamps + captions | Daily Life | 6 | 44.3h | Understanding & Reasoning | [Data](https://huggingface.co/collections/lmms-lab/egolife-67c04574c2a9b64ab312c342), [Proj Page](https://egolife-ai.github.io/), [Paper](https://arxiv.org/abs/2503.03803) | 2025
-| ActivityNet 1.3      | timestamps + action                             | Youtube              | 20k                | -        | Action Localization                     |                                                                                                                                                     |               |
-| ActivityNet Captions | timestamps + captions                           | Youtube              | 20k                | -        | Dense captioning, video grounding       |                                                                                                                                                     |               |
-| THUMOS               | timestamps + action                             | -                    | -                  | -        | Action Localization                     |                                                                                                                                                     |               |
-| YouCook2             | timestamps + captions                           | Cooking Videos       | -                  | -        | Dense captioning                        |                                                                                                                                                     |               |
-| MovieNet             | timestamps + captions + place/action/style tags | Movies               | 1.1k               | >2h      | movie understanding                     | [MovieNet](https://movienet.site/)                                                                                                                     | 2020          |
+| Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
+| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
+| PathMMU              | Close-ended                                     | 33,428              | 24,067             | [Data](https://huggingface.co/datasets/jamessyx/PathMMU) |
+| PathVQA              | Open-ended                                      | 32,632               | 4,289              | [Data](https://huggingface.co/datasets/flaviagiammarino/path-vqa) |
+| MicroVQA             | Close-ended                                     | 1,042(Test)          | -                  | [Data](https://huggingface.co/datasets/jmhb/microvqa) |
+| Quilt_VQA            | Open-ended                                      | 1,283                | 985                | [Data](https://huggingface.co/datasets/wisdomik/Quilt_VQA) |
 
 ### Slide Level Visual Question Answering Datasets
 
-| Dataset              | Annotation                                      | Source               | Number             | Duration | Tasks                                   | link                                                                                                                                                | Date Released |
-| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| EgoLife | timestamps + captions | Daily Life | 6 | 44.3h | Understanding & Reasoning | [Data](https://huggingface.co/collections/lmms-lab/egolife-67c04574c2a9b64ab312c342), [Proj Page](https://egolife-ai.github.io/), [Paper](https://arxiv.org/abs/2503.03803) | 2025
-| ActivityNet 1.3      | timestamps + action                             | Youtube              | 20k                | -        | Action Localization                     |                                                                                                                                                     |               |
-| ActivityNet Captions | timestamps + captions                           | Youtube              | 20k                | -        | Dense captioning, video grounding       |                                                                                                                                                     |               |
-| THUMOS               | timestamps + action                             | -                    | -                  | -        | Action Localization                     |                                                                                                                                                     |               |
-| YouCook2             | timestamps + captions                           | Cooking Videos       | -                  | -        | Dense captioning                        |                                                                                                                                                     |               |
-| MovieNet             | timestamps + captions + place/action/style tags | Movies               | 1.1k               | >2h      | movie understanding                     | [MovieNet](https://movienet.site/)                                                                                                                     | 2020          |
+| Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     |
+| -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | 
+| WSI-VQA              | Open-ended and Close-ended                      | 977                  | 8,671              | [Data](https://github.com/cpystan/WSI-VQA) |
+| WSI-Bench            | Open-ended and Close-ended                      | 175,450(Train) + 4,119(Test) | 9,642(Train) + 208(Test) | [Data](https://huggingface.co/datasets/LyuLucas/WSI-Bench) |
+| SlideBench-VQA       | Close-ended                                     | 7,827(TCGA) + 7,247(BCNB) | 734(TCGA) + 1,058(BCNB)     | [Data](https://huggingface.co/datasets/General-Medical-AI/SlideChat) |
+
 
 ## Benchmarks
 
