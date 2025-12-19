@@ -68,6 +68,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 * [WSI-Agents: A Collaborative Multi-agent System for Multi-modal Whole Slide Image Analysis](https://arxiv.org/abs/2507.14680), MICCAI 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-Agents.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-Agents).
 * [UnPuzzle: A Unified Framework for Pathology Image Analysis](https://arxiv.org/abs/2503.03152), arXiv 2025, [![Star](https://img.shields.io/github/stars/Puzzle-Logic/UnPuzzle.svg?style=social&label=Star)](https://github.com/Puzzle-Logic/UnPuzzle).
+* [Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](https://arxiv.org/abs/2508.02258), AAAI 2026, [![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star)](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG).
 
 ### Memory
 
