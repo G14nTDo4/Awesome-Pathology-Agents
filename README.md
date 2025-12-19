@@ -37,7 +37,6 @@ Awesome papers and datasets specifically focused on pathology.
 
 
 
-
 ### Reasoning
 
 * [SlideSeek: Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
@@ -53,6 +52,7 @@ Awesome papers and datasets specifically focused on pathology.
 * [HistoGPT: Generating dermatopathology reports from gigapixel whole slide images with HistoGPT](https://www.nature.com/articles/s41467-025-60014-x), Narture Communications 2025, [![Star](https://img.shields.io/github/stars/marrlab/HistoGPT.svg?style=social&label=Star)](https://github.com/marrlab/HistoGPT).
 * [PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063), arXiv 2025.
 * [Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos](https://www.nature.com/articles/s41586-024-07618-3), CVPR 2024, [![Star](https://img.shields.io/github/stars/aldraus/quilt-llava.svg?style=social&label=Star)](https://github.com/aldraus/quilt-llava).
+* [ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering](https://www.medrxiv.org/content/10.1101/2025.04.22.25326190v1), medrix 2025, [Huggingface](https://huggingface.co/CNX-PathLLM/Llama-slideQA).
 
 ### Planning
 
