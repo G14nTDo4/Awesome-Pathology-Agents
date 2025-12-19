@@ -1,6 +1,6 @@
 # Awesome-Pathology-Agents
 
-Awesome papers and datasets specifically focused on pathology.
+Awesome papers and datasets specifically focused on computational pathology. <img src="CPath_Agents.png" width="500px" align="right" />
 
 - [Awesome-Pathology-Agents](#awesome-pathology-agents)
   - [Papers](#papers)
