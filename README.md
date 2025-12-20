@@ -29,7 +29,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778), arxiv 2023.
 * [Virchow2: Scaling Self-Supervised Mixed Magnification Models in Pathology](https://arxiv.org/abs/2408.00738), arXiv 2025.
 * [ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering](https://www.medrxiv.org/content/10.1101/2025.04.22.25326190v1), medrxiv 2025.
-* [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025, [![Star](https://img.shields.io/github/stars/ssecv/PathVG.svg?style=social&label=Star)](https://github.com/ssecv/PathVG).
 * [MUSK: A vision–language foundation model for precision oncology](https://www.nature.com/articles/s41586-024-08378-w), Nature 2025, [![Star](https://img.shields.io/github/stars/lilab-stanford/MUSK.svg?style=social&label=Star)](https://github.com/lilab-stanford/MUSK).
 * [TITAN: A multimodal whole-slide foundation model for pathology](https://www.nature.com/articles/s41591-025-03982-3), Nature Medicine 2025, [![Star](https://img.shields.io/github/stars/mahmoodlab/TITAN.svg?style=social&label=Star)](https://github.com/mahmoodlab/TITAN).
 * [UNI: Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3), Nature Medicine 2024, [![Star](https://img.shields.io/github/stars/mahmoodlab/UNI.svg?style=social&label=Star)](https://github.com/mahmoodlab/UNI).
@@ -122,6 +121,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PathCap: Evaluating and interpreting caption prediction for histopathology images](https://proceedings.mlr.press/v126/zhang20b.html), Proceedings of the 5th Machine Learning for Healthcare Conference 2020, [![Star](https://img.shields.io/github/stars/zhangrenyuuchicago/PathCap.svg?style=social&label=Star)](https://github.com/zhangrenyuuchicago/PathCap).
 * [HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction](https://arxiv.org/abs/2403.05396), MICCAI 2024, [![Star](https://img.shields.io/github/stars/dddavid4real/HistGen.svg?style=social&label=Star)](https://github.com/dddavid4real/HistGen).
 * [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
+* [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025, [![Star](https://img.shields.io/github/stars/ssecv/PathVG.svg?style=social&label=Star)](https://github.com/ssecv/PathVG).
 
 ## Contact 
 
