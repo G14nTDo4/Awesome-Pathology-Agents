@@ -38,6 +38,8 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/BasitAlawode/MR-PLIP.svg?style=social&label=Star)](https://github.com/BasitAlawode/MR-PLIP).
 * PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology, AAAI 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathFLIP.svg?style=social&label=Star)](https://github.com/cyclexfy/PathFLIP).
 * [PathOrchestra: a comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks](https://www.nature.com/articles/s41746-025-02027-w), npj digital medicine 2025, [![Star](https://img.shields.io/github/stars/yanfang-research/PathOrchestra.svg?style=social&label=Star)](https://github.com/yanfang-research/PathOrchestra).
+* [PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002147), MedIA 2024, [![Star](https://img.shields.io/github/stars/openmedlab/PathoDuet.svg?style=social&label=Star)](https://github.com/openmedlab/PathoDuet).
+* [Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w), Nature 2024, [![Star](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath.svg?style=social&label=Star)](https://github.com/prov-gigapath/prov-gigapath).
 
 ### Reasoning
 
