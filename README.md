@@ -110,6 +110,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 ### Datasets
 
 * [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, [![Star](https://img.shields.io/github/stars/PathMMU-Benchmark/PathMMU.svg?style=social&label=Star)](https://github.com/PathMMU-Benchmark/PathMMU).
+* [WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05355.pdf), ECCV 2024, [![Star](https://img.shields.io/github/stars/cpystan/WSI-VQA.svg?style=social&label=Star)](https://github.com/cpystan/WSI-VQA).
 * [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025.
 * [PathoGaze1.0: Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology](https://arxiv.org/abs/2510.24653), arXiv 2025.
 * [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=rFpZnn11gj), ICLR 2025 oral, [![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star)](https://github.com/PathFoundation/PathGen-1.6M).
@@ -123,6 +124,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction](https://arxiv.org/abs/2403.05396), MICCAI 2024, [![Star](https://img.shields.io/github/stars/dddavid4real/HistGen.svg?style=social&label=Star)](https://github.com/dddavid4real/HistGen).
 * [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
 * [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025, [![Star](https://img.shields.io/github/stars/ssecv/PathVG.svg?style=social&label=Star)](https://github.com/ssecv/PathVG).
+
 
 ## Contact 
 
