@@ -39,7 +39,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PathOrchestra: a comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks](https://www.nature.com/articles/s41746-025-02027-w), npj digital medicine 2025, [![Star](https://img.shields.io/github/stars/yanfang-research/PathOrchestra.svg?style=social&label=Star)](https://github.com/yanfang-research/PathOrchestra).
 * [PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002147), MedIA 2024, [![Star](https://img.shields.io/github/stars/openmedlab/PathoDuet.svg?style=social&label=Star)](https://github.com/openmedlab/PathoDuet).
 * [Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w), Nature 2024, [![Star](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath.svg?style=social&label=Star)](https://github.com/prov-gigapath/prov-gigapath).
-* * [WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_51), MICCAI 2024, [![Star](https://img.shields.io/github/stars/cpystan/Wsi-Caption.svg?style=social&label=Star)](https://github.com/cpystan/Wsi-Caption).
+* [WsiCaption: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_51), MICCAI 2024, [![Star](https://img.shields.io/github/stars/cpystan/Wsi-Caption.svg?style=social&label=Star)](https://github.com/cpystan/Wsi-Caption).
 
 ### Reasoning
 
