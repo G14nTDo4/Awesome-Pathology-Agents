@@ -16,6 +16,10 @@ Awesome papers and datasets specifically focused on computational pathology. <im
     - [Datasets](#datasets)
   - [Contact](#contact)
   - [Star History](#star-history)
+  - [Citation](#citation)
+
+![architecture](Evolution.png)
+<p align="center"><i>The evolution of computational pathology methods</i></p>
 
 ## Papers
 
@@ -135,3 +139,15 @@ If you have relevant works regarding pathology agents or agentic computational p
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left)](https://www.star-history.com/#G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left)
+
+## Citation
+```bibtex
+@article{Chen_2026,
+      title={The Landscape of Computational Pathology Agents From Static Analysis to Autonomous Diagnostic Workflows},
+      url={http://dx.doi.org/10.36227/techrxiv.176773877.76155111/v1},
+      DOI={10.36227/techrxiv.176773877.76155111/v1},
+      publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+      author={Chen, Jingyun and Liu, Fengchun and Jiang, Songhan and Cai, Linghan},
+      year={2026}
+}
+```
