@@ -18,9 +18,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
   - [Star History](#star-history)
   - [Citation](#citation)
 
-![architecture](Evolution.png)
-<p align="center"><i>The evolution of computational pathology methods</i></p>
-
 ## Papers
 
 ### Perception
@@ -131,6 +128,8 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025, [![Star](https://img.shields.io/github/stars/ssecv/PathVG.svg?style=social&label=Star)](https://github.com/ssecv/PathVG).
 * [PathText: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_51), MICCAI 2024, [![Star](https://img.shields.io/github/stars/cpystan/Wsi-Caption.svg?style=social&label=Star)](https://github.com/cpystan/Wsi-Caption).
 
+![architecture](Evolution.png)
+<p align="center"><i>The evolution of computational pathology methods</i></p>
 
 ## Contact 
 
