@@ -3,12 +3,14 @@
 Awesome papers and datasets specifically focused on computational pathology. <img src="CPath_Agents.png" width="500px" align="right" />
 
 - [Awesome-Pathology-Agents](#awesome-pathology-agents)
+  - [Survey](#survey)
   - [Papers](#papers)
     - [Perception](#perception)
     - [Reasoning](#reasoning)
     - [Planning](#planning)
     - [Tool Use](#tool-use)
     - [Memory](#memory)
+    - [Self-improvement](#self-improvement)
     - [Self-improvement](#self-improvement)
   - [Benchmarks / Datasets](#benchmarks)
     - [Patch Level Benchmarks](#patch-level-benchmarks)
@@ -17,6 +19,11 @@ Awesome papers and datasets specifically focused on computational pathology. <im
   - [Contact](#contact)
   - [Star History](#star-history)
   - [Citation](#citation)
+
+## Survey
+
+* [Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884), arXiv 2026.
+* [The Landscape of Computational Pathology Agents From Static Analysis to Autonomous Diagnostic Workflows](https://www.techrxiv.org/users/1013270/articles/1373368-the-landscape-of-computational-pathology-agents-from-static-analysis-to-autonomous-diagnostic-workflows), TechRxiv 2026, [![Star](https://img.shields.io/github/stars/G14nTDo4/Awesome-Pathology-Agents.svg?style=social&label=Star)](https://github.com/G14nTDo4/Awesome-Pathology-Agents)
 
 ## Papers
 
@@ -29,6 +36,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [A Knowledge-enhanced Pathology Vision-language Foundation Model for Cancer Diagnosis](https://arxiv.org/abs/2412.13126), arXiv 2024, [![Star](https://img.shields.io/github/stars/MAGIC-AI4Med/KEEP.svg?style=social&label=Star)](https://github.com/MAGIC-AI4Med/KEEP).
 * [Virchow: A Million-Slide Digital Pathology Foundation Model](https://arxiv.org/abs/2309.07778), arxiv 2023.
 * [Virchow2: Scaling Self-Supervised Mixed Magnification Models in Pathology](https://arxiv.org/abs/2408.00738), arXiv 2025.
+* [VISTA-PATH: An interactive foundation model for pathology image segmentation and quantitative analysis in computational pathology](https://arxiv.org/abs/2601.16451), arXiv 2026, [![Star](https://img.shields.io/github/stars/zhihuanglab/VISTA-PATH.svg?style=social&label=Star)](https://github.com/zhihuanglab/VISTA-PATH).
 * [ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering](https://www.medrxiv.org/content/10.1101/2025.04.22.25326190v1), medrxiv 2025.
 * [MUSK: A vision–language foundation model for precision oncology](https://www.nature.com/articles/s41586-024-08378-w), Nature 2025, [![Star](https://img.shields.io/github/stars/lilab-stanford/MUSK.svg?style=social&label=Star)](https://github.com/lilab-stanford/MUSK).
 * [TITAN: A multimodal whole-slide foundation model for pathology](https://www.nature.com/articles/s41591-025-03982-3), Nature Medicine 2025, [![Star](https://img.shields.io/github/stars/mahmoodlab/TITAN.svg?style=social&label=Star)](https://github.com/mahmoodlab/TITAN).
@@ -44,6 +52,8 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 ### Reasoning
 
 * [PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617), arXiv 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathReasoner-R1.svg?style=social&label=Star)](https://github.com/cyclexfy/PathReasoner-R1)
+* [SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953), arXiv 2026.
+* [QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647), arXiv 2026, [![Star](https://img.shields.io/github/stars/cs-w0r1d/qcagent.svg?style=social&label=Star)](https://github.com/cs-w0r1d/qcagent)
 * [SlideSeek: Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
 * [SmartPath-R1: A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://arxiv.org/abs/2507.17303), arXiv 2025.
 * [Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](https://arxiv.org/abs/2510.04587), arXiv 2025, [![Star](https://img.shields.io/github/stars/zhihuanglab/Pathology-CoT.svg?style=social&label=Star)](https://github.com/zhihuanglab/Pathology-CoT).
@@ -60,7 +70,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering](https://www.medrxiv.org/content/10.1101/2025.04.22.25326190v1), medrix 2025, [Huggingface](https://huggingface.co/CNX-PathLLM/Llama-slideQA).
 * [Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](https://arxiv.org/pdf/2510.08668), arxiv 2025.
 * [PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545), arxiv 2025.
-
 
 
 ### Planning
