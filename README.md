@@ -97,6 +97,9 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 * [TissueLab: A co-evolving agentic AI system for medical imaging analysis](https://arxiv.org/abs/2509.20279), arXiv 2025, [![Star](https://img.shields.io/github/stars/zhihuanglab/TissueLab.svg?style=social&label=Star)](https://github.com/zhihuanglab/TissueLab).
 
+### Research / Discovery
+* [An agentic framework for autonomous scientific discovery in cancer pathology](https://www.nature.com/articles/s41591-026-04357-y)，Nature Medicine 2026.
+
 
 ## Benchmarks
 
