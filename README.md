@@ -11,7 +11,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
     - [Tool Use](#tool-use)
     - [Memory](#memory)
     - [Self-improvement](#self-improvement)
-    - [Self-improvement](#self-improvement)
   - [Benchmarks / Datasets](#benchmarks)
     - [Patch Level Benchmarks](#patch-level-benchmarks)
     - [Slide Level Benchmarks](#slide-level-benchmarks)
@@ -51,9 +50,11 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 ### Reasoning
 
+* [PathPocket: A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093), arXiv 2026.
 * [PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617), arXiv 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathReasoner-R1.svg?style=social&label=Star)](https://github.com/cyclexfy/PathReasoner-R1)
 * [SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953), arXiv 2026.
 * [QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647), arXiv 2026, [![Star](https://img.shields.io/github/stars/cs-w0r1d/qcagent.svg?style=social&label=Star)](https://github.com/cs-w0r1d/qcagent)
+* [Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](https://arxiv.org/abs/2505.15687), arXiv 2025.
 * [SlideSeek: Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
 * [SmartPath-R1: A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://arxiv.org/abs/2507.17303), arXiv 2025.
 * [Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](https://arxiv.org/abs/2510.04587), arXiv 2025, [![Star](https://img.shields.io/github/stars/zhihuanglab/Pathology-CoT.svg?style=social&label=Star)](https://github.com/zhihuanglab/Pathology-CoT).
