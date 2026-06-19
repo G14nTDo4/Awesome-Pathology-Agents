@@ -11,6 +11,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
     - [Tool Use](#tool-use)
     - [Memory](#memory)
     - [Self-improvement](#self-improvement)
+    - [Research / Discovery](#discovery)
   - [Benchmarks / Datasets](#benchmarks)
     - [Patch Level Benchmarks](#patch-level-benchmarks)
     - [Slide Level Benchmarks](#slide-level-benchmarks)
