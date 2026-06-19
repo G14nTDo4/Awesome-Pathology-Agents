@@ -49,9 +49,10 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w), Nature 2024, [![Star](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath.svg?style=social&label=Star)](https://github.com/prov-gigapath/prov-gigapath).
 
 ### Reasoning
-
+* [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), arXiv 2025, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
 * [PathPocket: A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093), arXiv 2026.
 * [PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617), arXiv 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathReasoner-R1.svg?style=social&label=Star)](https://github.com/cyclexfy/PathReasoner-R1)
+* [PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559), arxiv 2026
 * [SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953), arXiv 2026.
 * [QCAgent: An agentic framework for quality-controllable pathology report generation from whole slide image](https://arxiv.org/abs/2603.01647), arXiv 2026, [![Star](https://img.shields.io/github/stars/cs-w0r1d/qcagent.svg?style=social&label=Star)](https://github.com/cs-w0r1d/qcagent)
 * [Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](https://arxiv.org/abs/2505.15687), arXiv 2025.
@@ -72,11 +73,9 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](https://arxiv.org/pdf/2510.08668), arxiv 2025.
 * [PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545), arxiv 2025.
 
-
 ### Planning
 
 * [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](https://arxiv.org/abs/2502.08916), ICCV 2025.
-* [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), arXiv 2025, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
 * [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510), NeurIPS 2025.
 * [SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635), arXiv 2025.
 * [GIANT: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
