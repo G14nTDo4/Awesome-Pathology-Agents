@@ -150,7 +150,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 ## Contact 
 
-If you have relevant works regarding pathology agents or agentic computational pathology, we welcome you to contact us (Linghan Cai: cailh@stu.hit.edu.cn; Jingyun Chen: 03chenjingyun@gmail.com) to include them in our repository.
+If you have relevant works regarding pathology agents or agentic computational pathology, we welcome you to contact us (Linghan Cai: cailh@stu.hit.edu.cn; Jingyun Chen: jychen@stu.hit.edu.cn) to include them in our repository.
 
 ## Star History
 
