@@ -154,7 +154,13 @@ If you have relevant works regarding pathology agents or agentic computational p
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left)](https://www.star-history.com/#G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left)
+<a href="https://www.star-history.com/?repos=G14nTDo4%2FAwesome-Pathology-Agents&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&theme=dark&legend=top-left&sealed_token=u5v8WBHdqW_TpAqkLB_qUO8Fr2DV4TjrFgWT3qlzDkBWLllD-3XNtqI658a5bk1kgaAX1QZNMjXM_6EOZY9gHQSLApeMnxH-_C1G5iis4bPSv8Cufd2RzPQmtSjkqrNBIAeMrM4YpU-0Rn0B2yNlaCmu_73kz3PDCZ--m0N9Crl15C-6tlvrT3tfhffv" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left&sealed_token=u5v8WBHdqW_TpAqkLB_qUO8Fr2DV4TjrFgWT3qlzDkBWLllD-3XNtqI658a5bk1kgaAX1QZNMjXM_6EOZY9gHQSLApeMnxH-_C1G5iis4bPSv8Cufd2RzPQmtSjkqrNBIAeMrM4YpU-0Rn0B2yNlaCmu_73kz3PDCZ--m0N9Crl15C-6tlvrT3tfhffv" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left&sealed_token=u5v8WBHdqW_TpAqkLB_qUO8Fr2DV4TjrFgWT3qlzDkBWLllD-3XNtqI658a5bk1kgaAX1QZNMjXM_6EOZY9gHQSLApeMnxH-_C1G5iis4bPSv8Cufd2RzPQmtSjkqrNBIAeMrM4YpU-0Rn0B2yNlaCmu_73kz3PDCZ--m0N9Crl15C-6tlvrT3tfhffv" />
+ </picture>
+</a>
 
 ## Citation
 ```bibtex
