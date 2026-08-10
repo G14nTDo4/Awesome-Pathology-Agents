@@ -140,22 +140,23 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 ### Datasets
 
-* [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, [![Star](https://img.shields.io/github/stars/PathMMU-Benchmark/PathMMU.svg?style=social&label=Star)](https://github.com/PathMMU-Benchmark/PathMMU).
-* [WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05355.pdf), ECCV 2024, [![Star](https://img.shields.io/github/stars/cpystan/WSI-VQA.svg?style=social&label=Star)](https://github.com/cpystan/WSI-VQA).
+* ⭐ [PathMMU: A Massive Multimodal Expert-Level Benchmark for Understanding and Reasoning in Pathology](https://link.springer.com/chapter/10.1007/978-3-031-73033-7_4), ECCV 2024, [![Star](https://img.shields.io/github/stars/PathMMU-Benchmark/PathMMU.svg?style=social&label=Star)](https://github.com/PathMMU-Benchmark/PathMMU).
+* ⭐ [WSI-VQA: Interpreting Whole Slide Images by Generative Visual Question Answering](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05355.pdf), ECCV 2024, [![Star](https://img.shields.io/github/stars/cpystan/WSI-VQA.svg?style=social&label=Star)](https://github.com/cpystan/WSI-VQA).
 * [PathBench: Advancing the Benchmark of Large Multimodal Models for Pathology Image Understanding at Patch and Whole Slide Level](https://ieeexplore.ieee.org/abstract/document/11062674/), TMI 2025.
 * [PathoGaze1.0: Eye-Tracking, Mouse Tracking, Stimulus Tracking, and Decision-Making Datasets in Digital Pathology](https://arxiv.org/abs/2510.24653), arXiv 2025.
 * [PathGen-1.6M: 1.6 Million Pathology Image-text Pairs Generation through Multi-agent Collaboration](https://openreview.net/forum?id=rFpZnn11gj), ICLR 2025 oral, [![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star)](https://github.com/PathFoundation/PathGen-1.6M).
 * [Quilt-1M: One Million Image-Text Pairs for Histopathology](https://proceedings.neurips.cc/paper_files/paper/2023/file/775ec578876fa6812c062644964b9870-Paper-Datasets_and_Benchmarks.pdf), NeurIPS 2023, [![Star](https://img.shields.io/github/stars/wisdomikezogwo/quilt1m.svg?style=social&label=Star)](https://github.com/wisdomikezogwo/quilt1m).
 * [Hest-1k: A dataset for spatial transcriptomics and histology image analysis](https://proceedings.neurips.cc/paper_files/paper/2024/file/60a899cc31f763be0bde781a75e04458-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024, [![Star](https://img.shields.io/github/stars/mahmoodlab/hest.svg?style=social&label=Star)](https://github.com/mahmoodlab/hest).
 * [STimage-1K4M: A histopathology image-gene expression dataset for spatial transcriptomics](https://proceedings.neurips.cc/paper_files/paper/2024/file/3ef2b740cb22dcce67c20989cb3d3fce-Paper-Datasets_and_Benchmarks_Track.pdf), NeurIPS 2024, Benchmark, [![Star](https://img.shields.io/github/stars/JiawenChenn/STimage-1K4M.svg?style=social&label=Star)](https://github.com/JiawenChenn/STimage-1K4M).
-* [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
-* [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
+* ⭐ [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
+* ⭐ [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
 * [PathCap: Evaluating and interpreting caption prediction for histopathology images](https://proceedings.mlr.press/v126/zhang20b.html), Proceedings of the 5th Machine Learning for Healthcare Conference 2020, [![Star](https://img.shields.io/github/stars/zhangrenyuuchicago/PathCap.svg?style=social&label=Star)](https://github.com/zhangrenyuuchicago/PathCap).
 * [HistGen: Histopathology Report Generation via Local-Global Feature Encoding and Cross-modal Context Interaction](https://arxiv.org/abs/2403.05396), MICCAI 2024, [![Star](https://img.shields.io/github/stars/dddavid4real/HistGen.svg?style=social&label=Star)](https://github.com/dddavid4real/HistGen).
-* [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025, [![Star](https://img.shields.io/github/stars/The-Obstacle-Is-The-Way/gigapixel-goblin.svg?style=social&label=Star)](https://github.com/The-Obstacle-Is-The-Way/gigapixel-goblin).
+* ⭐ [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025, [![Star](https://img.shields.io/github/stars/The-Obstacle-Is-The-Way/gigapixel-goblin.svg?style=social&label=Star)](https://github.com/The-Obstacle-Is-The-Way/gigapixel-goblin).
 * [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025, [![Star](https://img.shields.io/github/stars/ssecv/PathVG.svg?style=social&label=Star)](https://github.com/ssecv/PathVG).
 * [PathText: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_51), MICCAI 2024, [![Star](https://img.shields.io/github/stars/cpystan/Wsi-Caption.svg?style=social&label=Star)](https://github.com/cpystan/Wsi-Caption).
+* [HISTAI: An Open-Source, Large-Scale Whole Slide Image Dataset for Computational Pathology](https://huggingface.co/papers/2505.12120), [Huggingface](https://huggingface.co/papers/2505.12120)
 
 ![architecture](Evolution.png)
 <p align="center"><i>The evolution of computational pathology methods</i></p>
@@ -163,16 +164,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 ## Contact 
 
 If you have relevant works regarding pathology agents or agentic computational pathology, we welcome you to contact us (Linghan Cai: cailh@stu.hit.edu.cn; Jingyun Chen: jychen@stu.hit.edu.cn) to include them in our repository.
-
-## Star History
-
-<a href="https://www.star-history.com/?repos=G14nTDo4%2FAwesome-Pathology-Agents&type=date&legend=top-left">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&theme=dark&legend=top-left&sealed_token=u5v8WBHdqW_TpAqkLB_qUO8Fr2DV4TjrFgWT3qlzDkBWLllD-3XNtqI658a5bk1kgaAX1QZNMjXM_6EOZY9gHQSLApeMnxH-_C1G5iis4bPSv8Cufd2RzPQmtSjkqrNBIAeMrM4YpU-0Rn0B2yNlaCmu_73kz3PDCZ--m0N9Crl15C-6tlvrT3tfhffv" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left&sealed_token=u5v8WBHdqW_TpAqkLB_qUO8Fr2DV4TjrFgWT3qlzDkBWLllD-3XNtqI658a5bk1kgaAX1QZNMjXM_6EOZY9gHQSLApeMnxH-_C1G5iis4bPSv8Cufd2RzPQmtSjkqrNBIAeMrM4YpU-0Rn0B2yNlaCmu_73kz3PDCZ--m0N9Crl15C-6tlvrT3tfhffv" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=G14nTDo4/Awesome-Pathology-Agents&type=date&legend=top-left&sealed_token=u5v8WBHdqW_TpAqkLB_qUO8Fr2DV4TjrFgWT3qlzDkBWLllD-3XNtqI658a5bk1kgaAX1QZNMjXM_6EOZY9gHQSLApeMnxH-_C1G5iis4bPSv8Cufd2RzPQmtSjkqrNBIAeMrM4YpU-0Rn0B2yNlaCmu_73kz3PDCZ--m0N9Crl15C-6tlvrT3tfhffv" />
- </picture>
-</a>
 
 ## Citation
 ```bibtex
