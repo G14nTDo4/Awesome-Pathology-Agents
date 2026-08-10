@@ -41,16 +41,18 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [MUSK: A vision–language foundation model for precision oncology](https://www.nature.com/articles/s41586-024-08378-w), Nature 2025, [![Star](https://img.shields.io/github/stars/lilab-stanford/MUSK.svg?style=social&label=Star)](https://github.com/lilab-stanford/MUSK).
 * [TITAN: A multimodal whole-slide foundation model for pathology](https://www.nature.com/articles/s41591-025-03982-3), Nature Medicine 2025, [![Star](https://img.shields.io/github/stars/mahmoodlab/TITAN.svg?style=social&label=Star)](https://github.com/mahmoodlab/TITAN).
 * [UNI: Towards a general-purpose foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02857-3), Nature Medicine 2024, [![Star](https://img.shields.io/github/stars/mahmoodlab/UNI.svg?style=social&label=Star)](https://github.com/mahmoodlab/UNI).
-* [CONCH: A visual-language foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02856-4), Nature Medicine 2024, [![Star](https://img.shields.io/github/stars/mahmoodlab/CONCH.svg?style=social&label=Star)](https://github.com/mahmoodlab/CONCH).
+* ☆ [CONCH: A visual-language foundation model for computational pathology](https://www.nature.com/articles/s41591-024-02856-4), Nature Medicine 2024, [![Star](https://img.shields.io/github/stars/mahmoodlab/CONCH.svg?style=social&label=Star)](https://github.com/mahmoodlab/CONCH).
 * [PLIP: A visual–language foundation model for pathology image analysis using medical Twitter](https://www.nature.com/articles/s41591-023-02504-3), Nature Medicine 2023, [![Star](https://img.shields.io/github/stars/pharmai/plip.svg?style=social&label=Star)](https://github.com/pharmai/plip).
 * [Multi-Resolution Pathology-Language Pre-training Model with Text-Guided Visual Representation](https://openaccess.thecvf.com/content/CVPR2025/html/Albastaki_Multi-Resolution_Pathology-Language_Pre-training_Model_with_Text-Guided_Visual_Representation_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/BasitAlawode/MR-PLIP.svg?style=social&label=Star)](https://github.com/BasitAlawode/MR-PLIP).
 * [PathFLIP: Fine-grained Language-Image Pretraining for Versatile Computational Pathology](https://arxiv.org/pdf/2512.17621), AAAI 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathFLIP.svg?style=social&label=Star)](https://github.com/cyclexfy/PathFLIP).
 * [PathOrchestra: a comprehensive foundation model for computational pathology with over 100 diverse clinical-grade tasks](https://www.nature.com/articles/s41746-025-02027-w), npj digital medicine 2025, [![Star](https://img.shields.io/github/stars/yanfang-research/PathOrchestra.svg?style=social&label=Star)](https://github.com/yanfang-research/PathOrchestra).
 * [PathoDuet: Foundation models for pathological slide analysis of H&E and IHC stains](https://www.sciencedirect.com/science/article/abs/pii/S1361841524002147), MedIA 2024, [![Star](https://img.shields.io/github/stars/openmedlab/PathoDuet.svg?style=social&label=Star)](https://github.com/openmedlab/PathoDuet).
 * [Prov-GigaPath: A whole-slide foundation model for digital pathology from real-world data](https://www.nature.com/articles/s41586-024-07441-w), Nature 2024, [![Star](https://img.shields.io/github/stars/prov-gigapath/prov-gigapath.svg?style=social&label=Star)](https://github.com/prov-gigapath/prov-gigapath).
+* [Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/pdf/2608.05757), arxiv 2026, [![Star](https://img.shields.io/github/stars/bryanwong17/BEACON.svg?style=social&label=Star)](https://github.com/bryanwong17/BEACON).
+* ☆ [PRISM2: End-to-end multimodal pathology foundation model with clinical dialogue](https://www.nature.com/articles/s41591-026-04521-4), Nature Medicine 2026, [huggingface](https://huggingface.co/paige-ai/Prism2).
 
 ### Reasoning
-* [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), ECCV 2026, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
+* ☆ [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), ECCV 2026, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
 * [PathPocket: A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093), arXiv 2026.
 * [PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617), arXiv 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathReasoner-R1.svg?style=social&label=Star)](https://github.com/cyclexfy/PathReasoner-R1)
 * [PathNavigate: A Training-Free Pathology Agent with Surprise-Guided Scan and Shared Slide Memory for Whole-Slide Image VQA](https://arxiv.org/abs/2605.23559), arxiv 2026
@@ -59,27 +61,27 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [Discovering Pathology Rationale and Token Allocation for Efficient Multimodal Pathology Reasoning](https://arxiv.org/abs/2505.15687), arXiv 2025.
 * [SlideSeek: Evidence-based diagnostic reasoning with multi-agent copilot for human pathology](https://arxiv.org/abs/2506.20964), arXiv 2025.
 * [SmartPath-R1: A Versatile Pathology Co-pilot via Reasoning Enhanced Multimodal Large Language Model](https://arxiv.org/abs/2507.17303), arXiv 2025.
-* [Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](https://arxiv.org/abs/2510.04587), arXiv 2025, [![Star](https://img.shields.io/github/stars/zhihuanglab/Pathology-CoT.svg?style=social&label=Star)](https://github.com/zhihuanglab/Pathology-CoT).
+* ☆ [Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole Slide Image Diagnosis Behavior](https://arxiv.org/abs/2510.04587), Nature Biomedical Engineering 2026, [![Star](https://img.shields.io/github/stars/zhihuanglab/Pathology-CoT.svg?style=social&label=Star)](https://github.com/zhihuanglab/Pathology-CoT).
 * [TeamPath: Building MultiModal Pathology Experts with Reasoning AI Copilots](https://www.researchsquare.com/article/rs-8098264/v1), arXiv 2025.
 * [Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner](https://arxiv.org/abs/2505.11404), AAAI 2026, [![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-R1.svg?style=social&label=Star)](https://github.com/Wenchuan-Zhang/Patho-R1).
 * [CPath-Omni: A Unified Multimodal Foundation Model for Patch and Whole Slide Image Analysis in Computational Pathology](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_CPath-Omni_A_Unified_Multimodal_Foundation_Model_for_Patch_and_Whole_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/PathFoundation/CPath-Omni.svg?style=social&label=Star)](https://github.com/PathFoundation/CPath-Omni).
-* [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
+* ☆ [SlideChat: A Large Vision-Language Assistant for Whole-Slide Pathology Image Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Chen_SlideChat_A_Large_Vision-Language_Assistant_for_Whole-Slide_Pathology_Image_Understanding_CVPR_2025_paper.html), CVPR 2025, [![Star](https://img.shields.io/github/stars/uni-medical/SlideChat.svg?style=social&label=Star)](https://github.com/uni-medical/SlideChat).
 * [PolyPath: Adapting a Large Multimodal Model for Multislide Pathology Report Generation](https://arxiv.org/abs/2502.10536), arxiv 2025.
 * [PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology](https://ojs.aaai.org/index.php/AAAI/article/view/28308), AAAI 2024, [![Star](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology.svg?style=social&label=Star)](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology).
-* [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
+* ☆ [WSI-LLaVA: A Multimodal Large Language Model for Whole Slide Image](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_WSI-LLaVA_A_Multimodal_Large_Language_Model_for_Whole_Slide_Image_ICCV_2025_paper.html), ICCV 2025, [![Star](https://img.shields.io/github/stars/XinhengLyu/WSI-LLaVA.svg?style=social&label=Star)](https://github.com/XinhengLyu/WSI-LLaVA).
 * [HistoGPT: Generating dermatopathology reports from gigapixel whole slide images with HistoGPT](https://www.nature.com/articles/s41467-025-60014-x), Narture Communications 2025, [![Star](https://img.shields.io/github/stars/marrlab/HistoGPT.svg?style=social&label=Star)](https://github.com/marrlab/HistoGPT).
-* [PRISM2: Unlocking Multi-Modal General Pathology AI with Clinical Dialogue](https://arxiv.org/abs/2506.13063), arXiv 2025.
 * [Quilt-LLaVA: Visual Instruction Tuning by Extracting Localized Narratives from Open-Source Histopathology Videos](https://www.nature.com/articles/s41586-024-07618-3), CVPR 2024, [![Star](https://img.shields.io/github/stars/aldraus/quilt-llava.svg?style=social&label=Star)](https://github.com/aldraus/quilt-llava).
 * [ALPaCA: Adapting Llama for Pathology Context Analysis to enable slide-level question answering](https://www.medrxiv.org/content/10.1101/2025.04.22.25326190v1), medrix 2025, [Huggingface](https://huggingface.co/CNX-PathLLM/Llama-slideQA).
 * [Hulu-Med: A Transparent Generalist Model towards Holistic Medical Vision-Language Understanding](https://arxiv.org/pdf/2510.08668), arxiv 2025.
 * [PathFound: An Agentic Multimodal Model Activating Evidence-seeking Pathological Diagnosis](https://arxiv.org/abs/2512.23545), MedIA 2026.
+* [Adaptive Diagnostic Reasoning Framework for Pathology with Multimodal Large Language Models](https://www.nature.com/articles/s43856-026-01491-z), Communications Medicine 2026.
 
 ### Planning
 
 * [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](https://arxiv.org/abs/2502.08916), ICCV 2025.
-* [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510), NeurIPS 2025.
+* ☆ [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510), NeurIPS 2025.
 * [SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635), arXiv 2025.
-* [GIANT: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
+* ☆ [GIANT: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
 
 ### Tool Use
 
@@ -87,7 +89,6 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [UnPuzzle: A Unified Framework for Pathology Image Analysis](https://arxiv.org/abs/2503.03152), arXiv 2025, [![Star](https://img.shields.io/github/stars/Puzzle-Logic/UnPuzzle.svg?style=social&label=Star)](https://github.com/Puzzle-Logic/UnPuzzle).
 * [Patho-AgenticRAG: Towards Multimodal Agentic Retrieval-Augmented Generation for Pathology VLMs via Reinforcement Learning](https://arxiv.org/abs/2508.02258), AAAI 2026, [![Star](https://img.shields.io/github/stars/Wenchuan-Zhang/Patho-AgenticRAG.svg?style=social&label=Star)](https://github.com/Wenchuan-Zhang/Patho-AgenticRAG).
 * [Development and validation of an autonomous artificial intelligence agent for clinical decision-making in oncology](https://www.nature.com/articles/s43018-025-00991-6?fromPaywallRec=false), Nature Cancer 2025, [![Star](https://img.shields.io/github/stars/Dyke-F/LLM_RAG_Agent.svg?style=social&label=Star)](https://github.com/Dyke-F/LLM_RAG_Agent).
-
 
 ### Memory
 
@@ -102,10 +103,16 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 
 * [An agentic framework for autonomous scientific discovery in cancer pathology](https://www.nature.com/articles/s41591-026-04357-y)，Nature Medicine 2026.
 
+### Benchmarks
+* ☆ [A benchmark study of vision and pathology foundation models for computational pathology](https://www.nature.com/articles/s41467-026-76004-6), Nature Communications 2026.
+* [OmniPathoVQA: Benchmarking pathology vision–language models with Encyclopedia-scale knowledge](https://www.sciencedirect.com/science/article/abs/pii/S1361841526002653), Medical Image Analysis 2026.
+* [PathAgentBench: Benchmarking Evidence-Seeking Vision-Language Models on Whole-Slide Pathology Image](https://arxiv.org/abs/2607.19261), arxiv 2026, [![Star](https://img.shields.io/github/stars/dankail/EviPathBench.svg?style=social&label=Star)](https://github.com/dankail/EviPathBench).
+* [Do Pathology Vision-Language Models Truly See Pathology?](https://arxiv.org/abs/2607.21065), arxiv 2026.
+* [PathView-Bench: Can Multimodal Large Language Models Achieve Fine-grained Multiscale Understanding of Pathology Images?](https://arxiv.org/abs/2607.28318), arxiv 2026.
 
-## Benchmarks
+## Datasets
 
-### Patch Level Benchmarks
+### Patch Level Datasets
 
 | Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     | Task |
 | -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | ---- |
@@ -114,7 +121,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 | MicroVQA             | Close-ended                                     | 1,042(Test)          | -                  | [Data](https://huggingface.co/datasets/jmhb/microvqa) | Visual Question Answering |
 | Quilt_VQA            | Open-ended                                      | 1,283                | 985                | [Data](https://huggingface.co/datasets/wisdomik/Quilt_VQA) | Visual Question Answering |
 
-### Slide Level Benchmarks
+### Slide Level Datasets
 
 | Dataset              | Open-ended or Close-ended                       | Number of Questions  | Number of Images   | Link     | Task |
 | -------------------- | ----------------------------------------------- | -------------------- | ------------------ | -------- | ---- |
@@ -144,6 +151,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025, [![Star](https://img.shields.io/github/stars/The-Obstacle-Is-The-Way/gigapixel-goblin.svg?style=social&label=Star)](https://github.com/The-Obstacle-Is-The-Way/gigapixel-goblin).
 * [PathVG: A New Benchmark and Dataset for Pathology Visual Grounding](https://link.springer.com/chapter/10.1007/978-3-032-05169-1_44), MICCAI 2025, [![Star](https://img.shields.io/github/stars/ssecv/PathVG.svg?style=social&label=Star)](https://github.com/ssecv/PathVG).
 * [PathText: Multiple Instance Generation of Pathology Reports for Gigapixel Whole-Slide Images](https://link.springer.com/chapter/10.1007/978-3-031-72083-3_51), MICCAI 2024, [![Star](https://img.shields.io/github/stars/cpystan/Wsi-Caption.svg?style=social&label=Star)](https://github.com/cpystan/Wsi-Caption).
+* [MultiPathQA: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
 
 ![architecture](Evolution.png)
 <p align="center"><i>The evolution of computational pathology methods</i></p>
