@@ -21,7 +21,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
   - [Star History](#star-history)
   - [Citation](#citation)
 
-⭐ means papers that help you get started quickly.
+⭐: means papers that help you get started quickly.
 
 ## Survey
 
