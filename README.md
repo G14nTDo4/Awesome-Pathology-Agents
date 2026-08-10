@@ -12,7 +12,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
     - [Memory](#memory)
     - [Self-improvement](#self-improvement)
     - [Discovery](#discovery)
-    - [Benchmarks][#benchmarks]
+    - [Benchmarks](#benchmarks)
   - [Datasets](#datasets)
     - [Patch Level Benchmarks](#patch-level-benchmarks)
     - [Slide Level Benchmarks](#slide-level-benchmarks)
