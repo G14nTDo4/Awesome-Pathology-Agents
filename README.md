@@ -84,7 +84,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology](https://arxiv.org/abs/2502.08916), ICCV 2025.
 * ⭐ [CPathAgent: An Agent-based Foundation Model for Interpretable High-Resolution Pathology Image Analysis Mimicking Pathologists’ Diagnostic Logic](https://arxiv.org/pdf/2505.20510), NeurIPS 2025.
 * [SurvAgent: Hierarchical CoT-Enhanced Case Banking and Dichotomy-Based Multi-Agent System for Multimodal Survival Prediction](https://arxiv.org/abs/2511.16635), arXiv 2025.
-* ⭐ [GIANT: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025.
+* ⭐ [GIANT: Navigating Gigapixel Pathology Images with Large Multimodal Models](https://arxiv.org/pdf/2511.19652), arxiv 2025, [![Star](https://img.shields.io/github/stars/The-Obstacle-Is-The-Way/gigapixel-goblin.svg?style=social&label=Star)](https://github.com/The-Obstacle-Is-The-Way/gigapixel-goblin).
 
 ### Tool Use
 
