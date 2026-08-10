@@ -12,10 +12,10 @@ Awesome papers and datasets specifically focused on computational pathology. <im
     - [Memory](#memory)
     - [Self-improvement](#self-improvement)
     - [Discovery](#discovery)
-    - [Benchmarks](#benchmarks)
+    - [Benchmarking](#benchmarking)
   - [Datasets](#datasets)
-    - [Patch Level Benchmarks](#patch-level-benchmarks)
-    - [Slide Level Benchmarks](#slide-level-benchmarks)
+    - [Patch Level Datasets](#patch-level-datasets)
+    - [Slide Level Datasets](#slide-level-datasets)
     - [Datasets](#datasets)
   - [Contact](#contact)
   - [Star History](#star-history)
@@ -107,7 +107,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [An agentic framework for autonomous scientific discovery in cancer pathology](https://www.nature.com/articles/s41591-026-04357-y)，Nature Medicine 2026.
 * [SAGE: Agentic Framework for Interpretable and Clinically Translatable Computational Pathology Biomarker Discovery](https://arxiv.org/abs/2602.00953), arXiv 2026.
 
-### Benchmarks
+### Benchmarking
 
 * ⭐ [A benchmark study of vision and pathology foundation models for computational pathology](https://www.nature.com/articles/s41467-026-76004-6), Nature Communications 2026.
 * [OmniPathoVQA: Benchmarking pathology vision–language models with Encyclopedia-scale knowledge](https://www.sciencedirect.com/science/article/abs/pii/S1361841526002653), Medical Image Analysis 2026.
