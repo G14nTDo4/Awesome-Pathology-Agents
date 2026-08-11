@@ -55,6 +55,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * ⭐ [PRISM2: End-to-end multimodal pathology foundation model with clinical dialogue](https://www.nature.com/articles/s41591-026-04521-4), Nature Medicine 2026, [Huggingface](https://huggingface.co/paige-ai/Prism2).
 
 ### Reasoning
+* [Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757), arXiv 2026, [![Star](https://img.shields.io/github/stars/bryanwong17/BEACON.svg?style=social&label=Star)](https://github.com/bryanwong17/BEACON).
 * ⭐ [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), ECCV 2026, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
 * [PathPocket: A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093), arXiv 2026.
 * [PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617), arXiv 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathReasoner-R1.svg?style=social&label=Star)](https://github.com/cyclexfy/PathReasoner-R1)
