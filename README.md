@@ -60,7 +60,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 * [AESTETIK: AutoEncoder for Spatial Transcriptomics Expression with Topology and Image Knowledge](https://doi.org/10.1093/bioinformatics/btag316), Bioinformatics 2026, [![Star](https://img.shields.io/github/stars/ratschlab/aestetik.svg?style=social&label=Star)](https://github.com/ratschlab/aestetik).
 
 ### Reasoning
-* [Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757), arXiv 2026, [![Star](https://img.shields.io/github/stars/bryanwong17/BEACON.svg?style=social&label=Star)](https://github.com/bryanwong17/BEACON).
+* [BEACON: Beyond Relevance: Bayesian Evidence Acquisition for Agentic Whole-Slide Image Reasoning](https://arxiv.org/abs/2608.05757), arXiv 2026, [![Star](https://img.shields.io/github/stars/bryanwong17/BEACON.svg?style=social&label=Star)](https://github.com/bryanwong17/BEACON).
 * ⭐ [PathAgent: Toward Interpretable Analysis of Whole-slide Pathology Images via Large Language Model-based Agentic Reasoning](https://arxiv.org/abs/2511.17052), ECCV 2026, [![Star](https://img.shields.io/github/stars/G14nTDo4/PathAgent.svg?style=social&label=Star)](https://github.com/G14nTDo4/PathAgent).
 * [PathPocket: A Multi-modal Agentic Co-pilot for Evidence Grounded Computational Pathology](https://arxiv.org/abs/2606.08093), arXiv 2026.
 * [PathReasoner-R1: Instilling Structured Reasoning into Pathology Vision-Language Model via Knowledge-Guided Policy Optimization](https://arxiv.org/abs/2601.21617), arXiv 2026, [![Star](https://img.shields.io/github/stars/cyclexfy/PathReasoner-R1.svg?style=social&label=Star)](https://github.com/cyclexfy/PathReasoner-R1)
