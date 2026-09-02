@@ -24,7 +24,7 @@ Awesome papers and datasets specifically focused on computational pathology. <im
 ⭐: means papers that help you get started quickly.
 
 ## Survey
-
+* [Agentic systems in computational pathology: architectures, evidence, and translational challenges](https://link.springer.com/article/10.1186/s12967-026-08829-0), Journal of Translational Medicine 2026.
 * [Computational Pathology in the Era of Emerging Foundation and Agentic AI -- International Expert Perspectives on Clinical Integration and Translational Readiness](https://arxiv.org/abs/2603.05884), arXiv 2026.
 * [The Landscape of Computational Pathology Agents From Static Analysis to Autonomous Diagnostic Workflows](https://www.techrxiv.org/users/1013270/articles/1373368-the-landscape-of-computational-pathology-agents-from-static-analysis-to-autonomous-diagnostic-workflows), TechRxiv 2026, [![Star](https://img.shields.io/github/stars/G14nTDo4/Awesome-Pathology-Agents.svg?style=social&label=Star)](https://github.com/G14nTDo4/Awesome-Pathology-Agents)
 
