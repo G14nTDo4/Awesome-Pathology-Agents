@@ -3,6 +3,7 @@
 Awesome papers and datasets specifically focused on computational pathology. <img src="CPath_Agents.png" width="500px" align="right" />
 
 - [Awesome-Pathology-Agents](#awesome-pathology-agents)
+* [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops.
   - [Survey](#survey)
   - [Papers](#papers)
     - [Perception](#perception)
